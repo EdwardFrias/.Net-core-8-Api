@@ -1,0 +1,77 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E8142248-CBF0-4520-9659-86A7592B62C9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{C06EC4DD-96DB-4F33-845C-064BD246109E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9B528C9C-238D-4F73-8E80-AC6C52F6CF63}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{93B29123-5BEE-4EBD-ACE9-763BEF32B5F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{60B25312-6B7F-434A-83D4-FF58BECA76C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Api", "src\Tarker.Booking.Api\Tarker.Booking.Api.csproj", "{FAA8B123-6737-4B56-AE67-58414A397E5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Domain", "src\Tarker.Booking.Domain\Tarker.Booking.Domain.csproj", "{A50B94F2-FB59-460F-900E-EF8110E5D1EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Application", "src\Tarker.Booking.Application\Tarker.Booking.Application.csproj", "{6F3C378C-B63A-4072-A20F-C6E856BB0D80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Persistence", "src\Tarker.Booking.Persistence\Tarker.Booking.Persistence.csproj", "{62BF953D-4B42-4A90-9B24-71DD37F8702E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.External", "src\Tarker.Booking.External\Tarker.Booking.External.csproj", "{49F15B9E-74AC-4030-9F9D-613A35BDD6E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarker.Booking.Common", "src\Tarker.Booking.Common\Tarker.Booking.Common.csproj", "{E446C3DB-91A0-4846-AD2D-7158AE47F9C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA8B123-6737-4B56-AE67-58414A397E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA8B123-6737-4B56-AE67-58414A397E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA8B123-6737-4B56-AE67-58414A397E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA8B123-6737-4B56-AE67-58414A397E5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A50B94F2-FB59-460F-900E-EF8110E5D1EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A50B94F2-FB59-460F-900E-EF8110E5D1EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A50B94F2-FB59-460F-900E-EF8110E5D1EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A50B94F2-FB59-460F-900E-EF8110E5D1EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F3C378C-B63A-4072-A20F-C6E856BB0D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F3C378C-B63A-4072-A20F-C6E856BB0D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F3C378C-B63A-4072-A20F-C6E856BB0D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F3C378C-B63A-4072-A20F-C6E856BB0D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BF953D-4B42-4A90-9B24-71DD37F8702E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BF953D-4B42-4A90-9B24-71DD37F8702E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BF953D-4B42-4A90-9B24-71DD37F8702E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BF953D-4B42-4A90-9B24-71DD37F8702E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49F15B9E-74AC-4030-9F9D-613A35BDD6E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F15B9E-74AC-4030-9F9D-613A35BDD6E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F15B9E-74AC-4030-9F9D-613A35BDD6E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F15B9E-74AC-4030-9F9D-613A35BDD6E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E446C3DB-91A0-4846-AD2D-7158AE47F9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E446C3DB-91A0-4846-AD2D-7158AE47F9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E446C3DB-91A0-4846-AD2D-7158AE47F9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E446C3DB-91A0-4846-AD2D-7158AE47F9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C06EC4DD-96DB-4F33-845C-064BD246109E} = {E8142248-CBF0-4520-9659-86A7592B62C9}
+		{9B528C9C-238D-4F73-8E80-AC6C52F6CF63} = {E8142248-CBF0-4520-9659-86A7592B62C9}
+		{93B29123-5BEE-4EBD-ACE9-763BEF32B5F4} = {E8142248-CBF0-4520-9659-86A7592B62C9}
+		{60B25312-6B7F-434A-83D4-FF58BECA76C2} = {E8142248-CBF0-4520-9659-86A7592B62C9}
+		{FAA8B123-6737-4B56-AE67-58414A397E5E} = {C06EC4DD-96DB-4F33-845C-064BD246109E}
+		{A50B94F2-FB59-460F-900E-EF8110E5D1EF} = {9B528C9C-238D-4F73-8E80-AC6C52F6CF63}
+		{6F3C378C-B63A-4072-A20F-C6E856BB0D80} = {9B528C9C-238D-4F73-8E80-AC6C52F6CF63}
+		{62BF953D-4B42-4A90-9B24-71DD37F8702E} = {93B29123-5BEE-4EBD-ACE9-763BEF32B5F4}
+		{49F15B9E-74AC-4030-9F9D-613A35BDD6E5} = {93B29123-5BEE-4EBD-ACE9-763BEF32B5F4}
+		{E446C3DB-91A0-4846-AD2D-7158AE47F9C9} = {60B25312-6B7F-434A-83D4-FF58BECA76C2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2393239-0943-4B0F-BB4C-FC5B6D02561E}
+	EndGlobalSection
+EndGlobal
