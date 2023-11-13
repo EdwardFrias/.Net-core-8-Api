@@ -23,3 +23,4 @@ C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\ne
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.pdb
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.genruntimeconfig.cache
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\ref\Tarker.Booking.Api.dll
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.sourcelink.json

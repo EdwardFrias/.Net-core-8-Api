@@ -9,3 +9,4 @@ C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\refint\Tarker.Booking.Common.dll
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.pdb
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\ref\Tarker.Booking.Common.dll
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.sourcelink.json
