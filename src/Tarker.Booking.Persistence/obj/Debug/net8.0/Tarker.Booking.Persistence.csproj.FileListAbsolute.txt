@@ -14,3 +14,5 @@ C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Persistence\bin\
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.csproj.AssemblyReference.cache
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Persistence\obj\Debug\net8.0\Tarker.Booking.Persistence.csproj.CopyComplete
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Application.dll
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Persistence\bin\Debug\net8.0\Tarker.Booking.Application.pdb
