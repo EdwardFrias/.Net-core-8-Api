@@ -10,3 +10,7 @@ C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.pdb
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\ref\Tarker.Booking.Application.dll
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.sourcelink.json
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.dll
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.AssemblyReference.cache
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net8.0\Tarker.Booking.Application.csproj.CopyComplete
