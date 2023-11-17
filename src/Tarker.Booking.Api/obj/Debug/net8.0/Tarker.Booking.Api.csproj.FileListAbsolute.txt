@@ -148,3 +148,8 @@ C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\ne
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Application.pdb
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Domain.pdb
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\obj\Debug\net8.0\Tarker.Booking.Api.csproj.AssemblyReference.cache
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Common.dll
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.External.dll
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.Common.pdb
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\Tarker.Booking.External.pdb
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.Api\bin\Debug\net8.0\AutoMapper.dll

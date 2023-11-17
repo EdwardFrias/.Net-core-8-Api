@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "8nZWZgSEkc59/EH0I0a1rb33R1zkMquot6yMkyJdTJjHfKwcNTF+lk/HC+ylPUu3CNPKTH/+5OxwOPLZj/BDhg==",
+  "dgSpecHash": "JFhvEq/fIWF7VuOAiCJ6yCqmRwGAZWM8phjLbF11viHz8IuN0/eSxuE4zZrfDhiRpmbAA72i9mMOSfmS0al+tQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\edwar\\Desktop\\.net 8\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\edwar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\edwar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.0\\microsoft.entityframeworkcore.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.0\\microsoft.entityframeworkcore.analyzers.8.0.0.nupkg.sha512",
