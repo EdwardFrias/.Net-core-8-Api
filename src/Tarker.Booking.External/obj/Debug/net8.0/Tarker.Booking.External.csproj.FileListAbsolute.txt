@@ -10,3 +10,4 @@ C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.External\obj\Deb
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.pdb
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\ref\Tarker.Booking.External.dll
 C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.sourcelink.json
+C:\Users\edwar\Desktop\.net 8\Tarker.Booking\src\Tarker.Booking.External\obj\Debug\net8.0\Tarker.Booking.External.csproj.AssemblyReference.cache

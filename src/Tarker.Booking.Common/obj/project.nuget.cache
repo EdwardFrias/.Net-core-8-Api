@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ElEUKRPVTRgTN0M0tr14WwF5p5v9hedreCTLsiK68at8WAs1TviUxh6OIEOe29rhDxujFpt19/pDHaZniefXTg==",
+  "dgSpecHash": "VUVflCkG+ml8nJeUIcWwzDntGXQliGn1pa6AeUxldLc3h6fYR99mILVlAH1XsVGPsQeSADAs/Se5TO3ZDDC3rw==",
   "success": true,
   "projectFilePath": "C:\\Users\\edwar\\Desktop\\.net 8\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\edwar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

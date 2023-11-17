@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "5xYlb5sdNjdOb0vi5NOkNaK4cs+QFaMiQTuO21zLgVTgfbcWHtTjRt28N7+nXLR6m4vQZtI4213caf0A6+DGeQ==",
+  "dgSpecHash": "nVNG3UdJJnaD98GyQQZZxESMje3vxtk1nwkjjF2N6TxOQMTmyVwT5IjNK+b31h1yMakIkE7wte8Sed0IWzIfEw==",
   "success": true,
   "projectFilePath": "C:\\Users\\edwar\\Desktop\\.net 8\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\edwar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\edwar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\edwar\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.1.0\\microsoft.data.sqlclient.sni.runtime.5.1.0.nupkg.sha512",
     "C:\\Users\\edwar\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
